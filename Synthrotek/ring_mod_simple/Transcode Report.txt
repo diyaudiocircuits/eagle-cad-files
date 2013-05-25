@@ -1,0 +1,38 @@
+
+
+   ---- Transcoding 'C:\Program Files (x86)\EAGLE-6.2.0\projects\Other_Circuits\Synthrotek\ring_mod_simple\ring_mod_simple.GTS' ----   Mon Jul 23 16:35:16 2012
+
+D10   --> D100
+D11   --> D101
+D12   --> D102
+D14   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Program Files (x86)\EAGLE-6.2.0\projects\Other_Circuits\Synthrotek\ring_mod_simple\ring_mod_simple.GTL' ----   Mon Jul 23 16:35:16 2012
+
+D10   --> D104
+D11   --> D105
+D13   --> D106
+D14   --> D107
+D15   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Program Files (x86)\EAGLE-6.2.0\projects\Other_Circuits\Synthrotek\ring_mod_simple\ring_mod_simple.GBL' ----   Mon Jul 23 16:35:16 2012
+
+D10   --> D109
+D12   --> D110
+D13   --> D111
+D14   --> D112
+D15   --> D113
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Program Files (x86)\EAGLE-6.2.0\projects\Other_Circuits\Synthrotek\ring_mod_simple\ring_mod_simple.GBS' ----   Mon Jul 23 16:35:16 2012
+
+D10   --> D114
+D11   --> D115
+D12   --> D116
+D14   --> D117
+-----------------------------------------------------------------
