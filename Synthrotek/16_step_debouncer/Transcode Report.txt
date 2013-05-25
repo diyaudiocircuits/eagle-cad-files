@@ -1,0 +1,127 @@
+
+
+   ---- Transcoding 'C:\Program Files (x86)\EAGLE-6.2.0\projects\Synthrotek\16_step_debouncer\debouncer.plc' ----   Tue Jul 03 13:44:47 2012
+
+D10   --> D100
+D12   --> D101
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Program Files (x86)\EAGLE-6.2.0\projects\Synthrotek\16_step_debouncer\debouncer.GTS' ----   Tue Jul 03 13:44:47 2012
+
+D10   --> D102
+D11   --> D103
+D12   --> D104
+D13   --> D105
+D14   --> D106
+D15   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Program Files (x86)\EAGLE-6.2.0\projects\Synthrotek\16_step_debouncer\debouncer.stc' ----   Tue Jul 03 13:44:47 2012
+
+D10   --> D108
+D11   --> D109
+D12   --> D110
+D13   --> D111
+D14   --> D112
+D15   --> D113
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Program Files (x86)\EAGLE-6.2.0\projects\Synthrotek\16_step_debouncer\debouncer.cmp' ----   Tue Jul 03 13:44:47 2012
+
+D10   --> D114
+D11   --> D115
+D12   --> D116
+D13   --> D117
+D14   --> D118
+D15   --> D119
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Program Files (x86)\EAGLE-6.2.0\projects\Synthrotek\16_step_debouncer\debouncer.GTL' ----   Tue Jul 03 13:44:47 2012
+
+D10   --> D120
+D11   --> D121
+D12   --> D122
+D13   --> D123
+D14   --> D124
+D15   --> D125
+D16   --> D126
+D17   --> D127
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Program Files (x86)\EAGLE-6.2.0\projects\Synthrotek\16_step_debouncer\debouncer.l15' ----   Tue Jul 03 13:44:47 2012
+
+D10   --> D128
+D11   --> D129
+D12   --> D130
+D13   --> D131
+D14   --> D132
+D15   --> D133
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Program Files (x86)\EAGLE-6.2.0\projects\Synthrotek\16_step_debouncer\debouncer.ly2' ----   Tue Jul 03 13:44:47 2012
+
+D10   --> D134
+D11   --> D135
+D12   --> D136
+D13   --> D137
+D14   --> D138
+D15   --> D139
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Program Files (x86)\EAGLE-6.2.0\projects\Synthrotek\16_step_debouncer\debouncer.GBL' ----   Tue Jul 03 13:44:47 2012
+
+D10   --> D140
+D11   --> D141
+D12   --> D142
+D13   --> D143
+D14   --> D144
+D15   --> D145
+D16   --> D146
+D17   --> D147
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Program Files (x86)\EAGLE-6.2.0\projects\Synthrotek\16_step_debouncer\debouncer.sol' ----   Tue Jul 03 13:44:47 2012
+
+D10   --> D148
+D11   --> D149
+D12   --> D150
+D13   --> D151
+D14   --> D152
+D15   --> D153
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Program Files (x86)\EAGLE-6.2.0\projects\Synthrotek\16_step_debouncer\debouncer.GBS' ----   Tue Jul 03 13:44:47 2012
+
+D10   --> D154
+D11   --> D155
+D12   --> D156
+D13   --> D157
+D14   --> D158
+D15   --> D159
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Program Files (x86)\EAGLE-6.2.0\projects\Synthrotek\16_step_debouncer\debouncer.sts' ----   Tue Jul 03 13:44:47 2012
+
+D10   --> D160
+D11   --> D161
+D12   --> D162
+D13   --> D163
+D14   --> D164
+D15   --> D165
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Program Files (x86)\EAGLE-6.2.0\projects\Synthrotek\16_step_debouncer\debouncer.pls' ----   Tue Jul 03 13:44:47 2012
+
+D10   --> D166
+-----------------------------------------------------------------
